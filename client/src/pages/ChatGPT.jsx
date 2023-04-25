@@ -9,7 +9,7 @@ import {
   TypingIndicator,
 } from "@chatscope/chat-ui-kit-react";
 
-const API_KEY = "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";
+const API_KEY = "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";
 // "Explain things like you would to a 10 year old learning how to code."
 const systemMessage = {
   //  Explain things like you're talking to a software professional with 5 years of experience.
